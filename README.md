@@ -5,11 +5,13 @@ Template repository as base to create a new model that can be plugged into model
 
 ## How to use this template to contribute your model to modelhub.ai
 
-Fork this repository and rename it. Choose a name that apropriately described your model in a conciese way.
+Fork this repository and rename it. Choose a name that apropriately describes your model in a conciese way.
 
 Fill in the template files and folders with your code, model, and sample data.
 
 To publish your model with modelhub.ai, clone https://github.com/modelhub-ai/modelhub, add your model to the model index list "models.json", and create a pull request. If your model passes our basic tests, we will accept the pull requst and your model will be available via modelhub.ai.
+
+For more details on contributing your model to modelhub, see https://github.com/modelhub-ai/modelhub and [modelhub.ai](http://modelhub.ai/).
 
 
 ## License
