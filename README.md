@@ -5,16 +5,18 @@ Template repository as base to create a new model that can be plugged into model
 
 ## How to use this template to contribute your model to modelhub.ai
 
-Fork this repository and rename it. Choose a name that apropriately described your model in a conciese way.
+Fork this repository and rename it. Choose a name that apropriately describes your model in a conciese way.
 
 Fill in the template files and folders with your code, model, and sample data.
 
 To publish your model with modelhub.ai, clone https://github.com/modelhub-ai/modelhub, add your model to the model index list "models.json", and create a pull request. If your model passes our basic tests, we will accept the pull requst and your model will be available via modelhub.ai.
 
+For more details on contributing your model to modelhub, see https://github.com/modelhub-ai/modelhub and [modelhub.ai](http://modelhub.ai/).
+
 
 ## License
 
-We release the code of the model-template repository (https://github.com/modelhub-ai/model-template) under the UNLICENSE (see full unlicense text below). We do this so you can fork and use this template as basis for your own models, and release them under any license you want, without restrictions and without even giving credit to modelhub.ai.
+We release the code of the model-template repository (https://github.com/modelhub-ai/model-template) under the UNLICENSE (see full unlicense text below). We do this so you can fork and use this template as basis for your own models, and release them under any license you want, without restrictions and without even giving credit to modelhub.ai (we're happy if you do so anyway, of course).
 
 After you forked (and renamed) this repository we advice you to immediately delete the README.md file (or at least any text regarding licensing). Then add the licence you want to use for your models into the "contrib_src/license/model" file. Also add the license and copyright notice for your sample data to the "contrib_src/license/samples" file. If you want to add the model to the modelhub.ai model collection, you of course have to make sure, that your license allows modelhub.ai to use your model.
 
