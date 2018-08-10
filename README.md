@@ -11,7 +11,7 @@ Fill in the template files and folders with your code, model, and sample data.
 
 To publish your model with modelhub.ai, clone https://github.com/modelhub-ai/modelhub, add your model to the model index list "models.json", and create a pull request. If your model passes our basic tests, we will accept the pull requst and your model will be available via modelhub.ai.
 
-For more details on contributing your model to modelhub, see https://github.com/modelhub-ai/modelhub and [modelhub.ai](http://modelhub.ai/).
+For a more detailed guide on how to contribute your model to modelhub, see [Contribute Your Own Model to Modelhub](http://modelhub.readthedocs.io/en/latest/contribute.html) in the offical [Modelhub Documentation](http://modelhub.readthedocs.io).
 
 
 ## License
