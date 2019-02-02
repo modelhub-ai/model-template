@@ -19,11 +19,11 @@
     "google_scholar": "",
     "bibtex": ""
   },
-  "viewer": "netron",
   "model": {
     "description": "",
     "architecture": "",
     "learning_type": "",
+    "format": "",
     "io": {
       "input": {
         "format": [],
@@ -38,12 +38,14 @@
           {
             "min": 0
           }
-        ]
+        ],
+        "description": ""
       },
       "output": [
         {
           "name": "",
-          "type": ""
+          "type": "",
+          "description": ""
         }
       ]
     }
