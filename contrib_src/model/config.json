@@ -28,7 +28,9 @@
     "io": {
       "input": {
         "format": [],
-        "dim_limits": [
+        "single":{
+          "format": [],
+          "dim_limits": [
           {
             "min": 0,
             "max": 0
@@ -40,6 +42,8 @@
             "min": 0
           }
         ],
+         "description":""
+        },
         "description": ""
       },
       "output": [
